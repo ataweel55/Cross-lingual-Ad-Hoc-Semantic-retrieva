@@ -1,0 +1,10 @@
+c:\users\atawe\onedrive\documents\visual studio 2015\Projects\Cross-lingual\Cross-lingual\bin\Debug\Cross-lingual.exe.config
+C:\Users\atawe\onedrive\documents\visual studio 2015\Projects\Cross-lingual\Cross-lingual\bin\Debug\Cross-lingual.exe
+C:\Users\atawe\onedrive\documents\visual studio 2015\Projects\Cross-lingual\Cross-lingual\bin\Debug\Cross-lingual.pdb
+C:\Users\atawe\onedrive\documents\visual studio 2015\Projects\Cross-lingual\Cross-lingual\bin\Debug\MathNet.Numerics.Data.Text.dll
+C:\Users\atawe\onedrive\documents\visual studio 2015\Projects\Cross-lingual\Cross-lingual\bin\Debug\MathNet.Numerics.dll
+C:\Users\atawe\onedrive\documents\visual studio 2015\Projects\Cross-lingual\Cross-lingual\bin\Debug\MathNet.Numerics.xml
+C:\Users\atawe\onedrive\documents\visual studio 2015\Projects\Cross-lingual\Cross-lingual\bin\Debug\MathNet.Numerics.Data.Text.xml
+C:\Users\atawe\onedrive\documents\visual studio 2015\Projects\Cross-lingual\Cross-lingual\obj\Debug\Cross-lingual.csprojResolveAssemblyReference.cache
+C:\Users\atawe\onedrive\documents\visual studio 2015\Projects\Cross-lingual\Cross-lingual\obj\Debug\Cross-lingual.exe
+C:\Users\atawe\onedrive\documents\visual studio 2015\Projects\Cross-lingual\Cross-lingual\obj\Debug\Cross-lingual.pdb
